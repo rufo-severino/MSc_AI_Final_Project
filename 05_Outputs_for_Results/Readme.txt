@@ -1,0 +1,1 @@
+In case of not wanting to run all the scenarios, the files here in the sub-folders correspond to the outputs of each scenario that can be used to be loaded in the notebooks of folder '04 Results'
